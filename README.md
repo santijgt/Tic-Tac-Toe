@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Minijuego creado en C#. Funciona contra una maquina que elige caudrados al azar.
+Minigame created in C#. You play against the machine that chooses random moves
